@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+
+    margin: 0;
+
+}
+
+header{
+
+    font-weight: 400px;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.88px;
+    color: #17233D;
+    margin: 47px 32px 0 42px;
+    cursor: pointer;
+}
+
+.link-menu{
+    margin-right: 32px;
+}
+
+button{
+    width: 124px;
+    height: 51px;
+    background-color: #4CB538;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+}
+ 
+img{
+    width: 595px;
+    height: 500px;
+    display: inline-block;
+    margin-left:121px ;
+    margin-top: 163px;
+    
+}
+
+div{
+    display: inline-block;
+    width: 493px;
+    Height: 99px;
+    margin-left: 85px;
+}
+
+h1{
+    font-weight: 700px;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.6px;
+    color: #161A49;
+    text-align: center;
+   
+
+}
+
+p{
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 33px;
+    color: #4B505A;
+    letter-spacing: 0.5px;
+    margin-top: 47px;
+    margin-bottom: 55px;
+    text-align: center;
+    
+}
+
+.link-info{
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 27px;
+    color:#6FBF44;
+    cursor: pointer;
+    margin-left: 180px;
+}
